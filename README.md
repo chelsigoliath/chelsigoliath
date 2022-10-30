@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chelsigoliath
-- Engineer by day, Creative by night.
+- Engineer by day, Creative by night & a #WomanInSTEM
 - 👀 I’m interested in Data, Machine Learning, Artificial Intelligence, Robotics and the integration of art and creative technologies in STEM. I'll always be a developer at heart
 - 🌱 I’m currently learning how to incorporate creative aspects and apply it to code using p5js, processing, processing.py and most recently TouchDesigner. (Subject to change)
 - I like building cool things
